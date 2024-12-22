@@ -1,6 +1,6 @@
 # ML-Final Project Repository
 
-This repository contains code for **Exploratory Data Analysis (EDA)** and solutions submitted to the [Kaggle competition](Kaggle: https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/).
+This repository contains code for **Exploratory Data Analysis (EDA)** and solutions submitted to the [Kaggle competition](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/).
 
 ---
 
