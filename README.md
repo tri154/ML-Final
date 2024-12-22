@@ -2,6 +2,8 @@
 
 This repository contains code for **Exploratory Data Analysis (EDA)** and solutions submitted to the [Kaggle competition](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/).
 
+The detail of the implementation: [Report](https://drive.google.com/file/d/1IdnmXYYrIHL_CAYbVXUZW6G-87YY2gmR/view?usp=drive_link)
+
 ---
 
 ## Repository Contents
